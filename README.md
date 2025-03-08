@@ -3,8 +3,7 @@
 A simple and efficient **Note-Taking API** built with **Node.js, Express, TypeScript, and MongoDB**.  
 
 ## 🚀 Features  
-- ✏️ Create, Read, Update, and Delete (CRUD) notes  
-- 🔐 User authentication (optional)  
+- ✏️ Create, Read, Update, and Delete (CRUD) notes   
 - 🌍 RESTful API endpoints  
 - 🛠️ Built with **Express.js** and **Mongoose**  
 - 📦 Environment variables managed using `.env`  
@@ -14,5 +13,5 @@ A simple and efficient **Note-Taking API** built with **Node.js, Express, TypeSc
 
 1. **Clone the repository**  
    ```sh
-   git clone https://github.com/your-username/note-taking-api.git
+   git clone https://github.com/kingstech001/note-app.git
    cd note-taking-api
